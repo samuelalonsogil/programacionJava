@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\asbar\\Downloads\\junit-4.13.2.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.jupiter.engine_5.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.platform.commons_1.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.platform.launcher_1.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.jupiter.params_5.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.eclipse.jdt.junit.core_3.10.900.v20201120-2059.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.jupiter.api_5.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.platform.engine_1.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.eclipse.jdt.junit_3.11.1000.v20201120-2059.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit_4.13.0.v20200204-1500.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.vintage.engine_5.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.platform.runner_1.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.eclipse.jdt.junit4.runtime_1.1.1400.v20200917-1125.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.eclipse.jdt.junit.runtime_3.5.400.v20201120-2059.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.jupiter.migrationsupport_5.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.junit.platform.suite.api_1.7.0.v20201026-1537.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.eclipse.jdt.junit5.runtime_1.0.1100.v20200928-0432.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.apache.ant_1.10.9.v20201106-1946\\lib\\ant-junit4.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.apache.ant_1.10.9.v20201106-1946\\lib\\ant-junitlauncher.jar",
+			"c:\\Users\\asbar\\.p2\\pool\\plugins\\org.apache.ant_1.10.9.v20201106-1946\\lib\\ant-junit.jar"
+		],
+		"java.project.sourcePaths": [
+			"RepasoPoo/MaquinaExpendedora",
+			"Herencia",
+			"RepasoPoo/MaquinaExpendedora2"
+		]
+	}
+}
