@@ -9,8 +9,15 @@ public class Disco {
 	private String genero;
 	private int duracion; // duración total en minutos
 
+    public Disco(String codigo, String autor, String titulo, String genero, int duracion) {
+    }
 
-	public String getCodigo() {
+    public Disco() {
+
+    }
+
+
+    public String getCodigo() {
 		return codigo;
 	}
 
