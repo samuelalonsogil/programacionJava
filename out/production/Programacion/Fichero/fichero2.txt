@@ -1,7 +1,0 @@
-"computer"
-"cat"
-"red"
-"tree"
-"penguin"
-"sun"
-"water"

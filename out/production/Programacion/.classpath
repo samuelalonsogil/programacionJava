@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Herencia/|RepasoPoo/MaquinaExpendedora/|RepasoPoo/" kind="src" path=""/>
+	<classpathentry kind="src" path="Herencia"/>
+	<classpathentry excluding="MaquinaExpendedora/" kind="src" path="RepasoPoo"/>
+	<classpathentry kind="src" path="RepasoPoo/MaquinaExpendedora"/>
+	<classpathentry kind="output" path="out/production/Programacion"/>
+</classpath>
