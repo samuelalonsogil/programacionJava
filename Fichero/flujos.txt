@@ -1,0 +1,36 @@
+-----Añadir Buffer al funcionamiento del objeto----
+-BufferedReader(C)
+-BufferredWritter(C)
+
+-BufferedInputStream(B)
+-BufferedOutputStream(B)
+
+------Pasar de bytes a caracteres--------
+-InputStreamReader(C)
+-OutputStreamWriter(C)
+
+------Serialización o señalización--------
+-ObjectInputStream(B)
+-ObjectOutputStream(B)
+
+-----Aplicar filtros a streams de datos-------
+-FileReader(C) :leer caracteres de un fichero
+-FileWritter(C):escribir caracteres de un fichero
+
+-FilterInputStream(B)
+-FilterOutputStream(B)
+
+----Transformar a formatos propios de Java----
+-DataInputStream(B)
+-DataOutputStream(B)
+
+----Devolver el siguiente caracter de entrada---
+-PushBackReader(C)
+-PushBackInputStream(B)
+
+----Imprimir variables Java con apariencia normal---
+-PrintWriter(C)
+-PrintStream(B)
+
+----Capacidad de concatenación--------
+-SequenceInputStream(B)
