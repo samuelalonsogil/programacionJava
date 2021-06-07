@@ -1,17 +1,28 @@
 package Herencia.Abstraccion;
 
-public class Entrenador extends SeleccionFutbol {
+public class Entrenador2 extends SeleccionFutbol2 {
+
     private String idFederacion;
 
-    public void dirigirPartido() {
-        System.out.println("Dirijo partido");
+    // constructor, getter y setter
+
+
+    public Entrenador2(int id, String nombre, String apellidos, int edad, String idFederacion) {
+        super(id, nombre, apellidos, edad);
+        this.idFederacion = idFederacion;
     }
 
-    public void dirigirEntreno() {
-        System.out.println("Dirijo entreno");
+    @Override
+    public void entrenamiento() {
+        System.out.println("Dirige un entrenamiento (Clase Entrenador)");
     }
 
-    public void Viajar() {
-        System.out.println("Atento a todos");
+    @Override
+    public void partidoFutbol() {
+        System.out.println("Dirige un Partido (Clase Entrenador)");
+    }
+
+    public void planificarEntrenamiento() {
+        System.out.println("Planificar un Entrenamiento");
     }
 }

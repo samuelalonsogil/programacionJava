@@ -1,2 +1,5 @@
-package Fichero.BoletinFicheros;public class Ejercicio5 {
+package Fichero.BoletinFicheros;
+
+public class Ejercicio5 {
+
 }

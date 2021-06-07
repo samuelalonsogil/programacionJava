@@ -1,4 +1,4 @@
-package Libro;
+package Herencia.Libro;
 
 public class Libro extends Publicacion {
     public String Titulo;

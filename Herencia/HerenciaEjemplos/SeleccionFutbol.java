@@ -1,4 +1,4 @@
-package HerenciaEjemplos;
+package Herencia.HerenciaEjemplos;
 
 public class SeleccionFutbol {
 

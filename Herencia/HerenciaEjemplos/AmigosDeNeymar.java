@@ -1,6 +1,8 @@
-package HerenciaEjemplos;
+package Herencia.HerenciaEjemplos;
 
-public class AmigosDeNeymar extends SeleccionFutbol{
+import Herencia.HerenciaEjemplos.SeleccionFutbol;
+
+public class AmigosDeNeymar extends SeleccionFutbol {
     private String idAmigosDeNeymar;
 
     public AmigosDeNeymar(int id, String nombre, String apellidos, int edad, String idAmigosDeNeymar) {

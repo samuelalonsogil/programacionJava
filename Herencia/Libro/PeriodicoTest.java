@@ -1,4 +1,4 @@
-package Libro;
+package Herencia.Libro;
 
 public class PeriodicoTest {
     public static void main(String[] args) {

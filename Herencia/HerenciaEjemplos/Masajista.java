@@ -1,4 +1,6 @@
-package HerenciaEjemplos;
+package Herencia.HerenciaEjemplos;
+
+import Herencia.HerenciaEjemplos.SeleccionFutbol;
 
 public class Masajista extends SeleccionFutbol {
     private String Titulacion;

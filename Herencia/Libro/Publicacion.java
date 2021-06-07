@@ -1,4 +1,4 @@
-package Libro;
+package Herencia.Libro;
 
 class Publicacion {
     int numeroDePaginas;

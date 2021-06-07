@@ -1,9 +1,11 @@
-El fichero con el que vamos a trabajar tiene por nombre malaga1.txt y contiene
-información extraída de la Wikipedia sobre la bonita ciudad de Málaga1. A partir de
-aquí, siempre que queramos realizar una operación sobre ese archivo, utilizaremos su
-manejador de fichero asociado, es decir bf.
-En el ejemplo que se muestra a continuación, el programa lee el contenido del fichero
-malaga1.txt y lo muestra tal cual en pantalla, igual que si hiciéramos en una ventana
-de terminal cat malaga1.txt.
-Observa que se va leyendo el fichero línea a línea mediante bf.readLine() hasta que se
-acaban las líneas. Cuando no quedan más líneas por leer se devuelve el valor null.
+    EL FICHERO CON EL QUE VAMOS A TRABAJAR TIENE POR NOMBRE MALAGA1.TXT Y CONTIENE
+INFORMACIÓN EXTRAÍDA DE LA WIKIPEDIA SOBRE LA BONITA CIUDAD DE MÁLAGA1. A PARTIR DE
+AQUÍ, SIEMPRE QUE QUERAMOS REALIZAR UNA OPERACIÓN SOBRE ESE ARCHIVO, UTILIZAREMOS SU
+MANEJADOR DE FICHERO ASOCIADO, ES DECIR BF.
+
+    EN EL EJEMPLO QUE SE MUESTRA A CONTINUACIÓN, EL PROGRAMA LEE EL CONTENIDO DEL FICHERO
+MALAGA1.TXT Y LO MUESTRA TAL CUAL EN PANTALLA, IGUAL QUE SI HICIÉRAMOS EN UNA VENTANA
+DE TERMINAL CAT MALAGA1.TXT.
+
+    OBSERVA QUE SE VA LEYENDO EL FICHERO LÍNEA A LÍNEA MEDIANTE BF.READLINE() HASTA QUE SE
+ACABAN LAS LÍNEAS. CUANDO NO QUEDAN MÁS LÍNEAS POR LEER SE DEVUELVE EL VALOR NULL.

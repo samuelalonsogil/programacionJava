@@ -36,12 +36,15 @@ public class Carta implements Comparable<Carta>{
         if (obj == null) {
             return false;
         }
+
         //si el objeto no es una carta
         if (getClass() != obj.getClass()) {
             return false;
         }
+
         //pasa una carta
         final Carta other = (Carta) obj;
+
         //usamos la libreria objects para tirar del metodo equals
         if (!Objects.equals(this.numero, other.numero)) {
             return false;

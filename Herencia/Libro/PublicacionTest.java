@@ -1,4 +1,4 @@
-package Libro;
+package Herencia.Libro;
 
 public class PublicacionTest {
    static Libro DiarioDeGreg = new Libro();

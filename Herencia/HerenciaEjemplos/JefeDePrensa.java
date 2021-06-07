@@ -1,6 +1,8 @@
-package HerenciaEjemplos;
+package Herencia.HerenciaEjemplos;
 
-public class JefeDePrensa extends SeleccionFutbol{
+import Herencia.HerenciaEjemplos.SeleccionFutbol;
+
+public class JefeDePrensa extends SeleccionFutbol {
     private String idPrensa;
 
     public JefeDePrensa(int id, String nombre, String apellidos, int edad, String idPrensa) {

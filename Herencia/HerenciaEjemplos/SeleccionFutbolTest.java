@@ -1,5 +1,4 @@
-package HerenciaEjemplos;
-
+package Herencia.HerenciaEjemplos;
 import java.util.ArrayList;
 
 public class SeleccionFutbolTest {

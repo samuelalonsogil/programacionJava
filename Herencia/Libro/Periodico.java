@@ -1,4 +1,4 @@
-package Libro;
+package Herencia.Libro;
 
 class Periodico extends Publicacion {
     private String nombre;

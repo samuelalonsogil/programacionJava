@@ -1,2 +1,5 @@
-package Fichero.FicherosDos;public class PasarObjetoABytes {
+package Fichero.FicherosDos;
+
+public class PasarObjetoABytes {
+
 }
